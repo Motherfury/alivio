@@ -307,7 +307,7 @@ a.btn-big {
     font-family: 'Georgia', serif;
 }
 
-.story-heading + * {
+.story-heading+* {
     margin-top: 33px;
 }
 
@@ -317,7 +317,7 @@ a.btn-big {
     line-height: 157%;
 }
 
-.story-text + * {
+.story-text+* {
     margin-top: 57px;
 }
 
@@ -330,7 +330,7 @@ a.btn-big {
     position: relative;
 }
 
- 
+
 
 .story-video-btn {
     position: absolute;
@@ -345,8 +345,7 @@ a.btn-big {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.2)
-    ;
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
 
@@ -390,7 +389,7 @@ a.btn-big {
     font-size: 25px;
 }
 
-.product-content-title + * {
+.product-content-title+* {
     margin-top: 10px;
 }
 
@@ -402,7 +401,7 @@ a.btn-big {
     font-size: 50px;
 }
 
-.product-content-subtitle + * {
+.product-content-subtitle+* {
     margin-top: 20px;
 }
 
@@ -411,7 +410,7 @@ a.btn-big {
     max-width: 530px;
 }
 
-.product-content-text + * {
+.product-content-text+* {
     margin-top: 40px;
 }
 
@@ -490,7 +489,7 @@ a.btn-big {
     list-style-position: inside;
 }
 
-.card ul li + li {
+.card ul li+li {
     margin-top: 20px;
 }
 
@@ -502,10 +501,8 @@ a.btn-big {
     padding: 104px 0 144px;
 }
 
-.footer-content {
-}
 
-.footer-logo + *{
+.footer-logo+* {
     margin-top: 74px;
 }
 
@@ -514,14 +511,14 @@ a.btn-big {
     font-weight: 600;
 }
 
-.footer-nav li + li {
-	margin-top: 60px;
+.footer-nav li+li {
+    margin-top: 60px;
 }
 
 .footer-nav a {
-	transition: opacity 0.2s ease;
+    transition: opacity 0.2s ease;
 }
 
 .footer-nav a:hover {
-	opacity: 0.8;
+    opacity: 0.8;
 }
